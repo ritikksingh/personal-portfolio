@@ -54,3 +54,6 @@ Embed Map
     -Resume
     -SOcial links
 
+    Deployment
+    -Github pages
+    -Netlify OR Vercel
