@@ -1,0 +1,56 @@
+1.Home Page
+
+Navbar 
+    -home 
+    -Contact
+    -Resume
+
+
+Intro Section 
+    -heading
+    -Image
+    -About Me
+
+Experience
+    -List all exprience
+
+Skills
+
+    -List All my skill
+
+Achivements
+    -List all Achivements
+
+
+Footer
+    -home 
+    -Contact
+    -Resume
+    -SOcial links
+
+
+2.Contact us Page
+
+Navbar
+    -home 
+    -Contact
+    -Resume
+
+Contact me form 
+    -First name
+    -Last name
+    -Email
+    -Phone
+    -Submit Button
+
+
+Social links
+    -Linkdin 
+    -Youtube
+
+Embed Map
+    -home 
+    -Contact
+    -Resume
+    -SOcial links
+
